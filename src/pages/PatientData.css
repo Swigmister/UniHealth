@@ -1,0 +1,27 @@
+.content {
+    --ion-background-color: white;
+}
+
+.title {
+    position: absolute; /* or absolute */
+    left: 0% !important;
+    text-align: left;
+    color: black;
+    font-size: xx-large !important;
+}
+
+.header {
+    font-size: xx-large !important;
+    
+}
+.patientList {
+    text-align: left;
+    top: 20%;
+    background-color: white;
+}
+.list {
+    text-align: left;
+    top: 50%;
+    left: 0%;
+    --ion-background-color: white;
+}
